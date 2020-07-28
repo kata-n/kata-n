@@ -1,6 +1,5 @@
 よろしくお願いします。
 
-#### Qiitaアカウント
+<a href="https://qiita.com/kata-n" target_blank>Qiita</a>
 
-https://qiita.com/kata-n
 
