@@ -11,3 +11,6 @@ https://github.com/kata-n/laravel_ACNH_make_title
 #### github以外での発信
 
 <a href="https://qiita.com/kata-n" target=”_blank”>Qiita</a>
+
+#### status
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=kata-n)
