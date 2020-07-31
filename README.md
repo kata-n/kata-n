@@ -14,6 +14,8 @@ https://github.com/kata-n/laravel_ACNH_make_title
 
 #### 技術
 
-|![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kata-n&layout=compact)|![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=kata-n)|
-|---|---|
 |language|Status|
+|:---:|:---:|
+|![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kata-n&layout=compact)|![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=kata-n)|
+
+
