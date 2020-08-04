@@ -8,11 +8,11 @@ https://github.com/kata-n/laravel_keigenquiz
 
 https://github.com/kata-n/laravel_ACNH_make_title
 
-#### github以外での発信
+### github以外での発信
 
 <a href="https://qiita.com/kata-n" target=”_blank”>Qiita</a>
 
-#### 技術
+### 技術
 
 |Language|Status|
 |:---:|:---:|
