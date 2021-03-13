@@ -12,6 +12,8 @@ https://github.com/kata-n/laravel_ACNH_make_title
 
 <a href="https://qiita.com/kata-n" target=”_blank”>Qiita</a>
 
+<a href="https://qiita.com/kata-n" target=”_blank”>メモ書き</a>
+
 |Language|
 |:---:|
 |![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kata-n&layout=compact)|
