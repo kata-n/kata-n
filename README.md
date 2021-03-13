@@ -12,7 +12,7 @@ https://github.com/kata-n/laravel_ACNH_make_title
 
 <a href="https://qiita.com/kata-n" target=”_blank”>Qiita</a>
 
-<a href="https://qiita.com/kata-n" target=”_blank”>メモ書き</a>
+<a href="https://hackmd.io/@hBl82jbKSMuxamyJ7qq1HQ" target=”_blank”>メモ書き</a>
 
 |Language|
 |:---:|
